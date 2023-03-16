@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Fatih
 I am a Software Engineering student at Manisa Celal Bayar University
 - 👀 I’m interested in machine learning and web development
-- 🌱 I'm currently learning Javascript, Node.js
+- 🌱 I'm currently learning flutter & dart
 - 📫 How to reach me fatiharslan748@gmail.com
 
 
