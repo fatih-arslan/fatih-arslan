@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/fatih-arslan-416a1521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-arslan-416a1521a/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fatiharslan748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatiharslan748" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/oreily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oreily" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15696728/fatih-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oreily" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
