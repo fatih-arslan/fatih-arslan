@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">I am a Software Engineering student at Manisa Celal Bayar University</h3>
 
-- 🌱 I’m currently learning **flutter & dart**
+- 🌱 I’m currently learning **Asp.Net Core Web API**
 
 - 👀 I’m interested in **machine learning and web development**
 
