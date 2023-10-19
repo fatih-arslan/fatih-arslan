@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NET Microservices Architecture**
 
-- 👀 I’m interested in **machine learning and web development**
+- 👀 I’m interested in **backend development**
 
 - 📫 How to reach me **fatiharslan748@gmail.com**
 
